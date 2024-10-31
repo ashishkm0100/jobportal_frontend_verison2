@@ -1,0 +1,68 @@
+body{
+   
+    background-color:rgb(234, 246, 255);
+}
+h4{
+    font-family: 'Segoe UI', bold;
+    font-size: 35px;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 40%;
+}
+
+form{
+    display: inline-block;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+}
+.text_area{
+    align-content: center;
+    border-radius: 50px;
+    margin-bottom: 35px;
+    width: 100%;
+    height: 64px;
+    
+    box-shadow: 0 0 8px 0 rgba(113, 113, 113, 0.2), 0 0 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text_input{
+
+    margin-top: 1.rem;
+    font-family: 'Montserrat regular';
+    font-size: 20px;
+    border: none;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.btn{
+    margin-left: 30%;
+    margin-top: 28px;
+    width: 165px;
+    height: 60px;
+    border-radius: 30px;
+    background: #306eff;
+    border: none;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(66, 183, 255, 0.7), 0 6px 20px 0 rgba(181, 141, 237, 0.9);
+    cursor: pointer;
+}
+
+.login{
+
+
+    display: inline-block;
+    margin-left: 40%;
+    background: #ffffff;
+    width: 400px;
+    height: 500px;
+    margin-top: 5%;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
